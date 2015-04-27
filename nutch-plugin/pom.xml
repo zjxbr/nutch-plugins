@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.puns.crawltools</groupId>
-	<artifactId>nutchplugin</artifactId>
+	<artifactId>nutch-plugin</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>nutchplugin</name>
+	<name>nutch-plugin</name>
 	<url>http://maven.apache.org</url>
 
 	<repositories>
